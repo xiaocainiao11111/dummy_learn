@@ -1,0 +1,3 @@
+C:/Users/Cainiao/Desktop/dummy_lzy/lzy_soft/V0.1/cmake-build-debug/CMakeFiles/untitled.elf.dir
+C:/Users/Cainiao/Desktop/dummy_lzy/lzy_soft/V0.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cainiao/Desktop/dummy_lzy/lzy_soft/V0.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
